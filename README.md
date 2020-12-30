@@ -29,4 +29,4 @@ testbook:Draw({
 
 ### Download
 
-[Download book.lua](https://mestima.github.io/gmod/books/book.lua)
+[Download book.lua](https://mestima.github.io/gBook/book.lua)
